@@ -8,7 +8,7 @@ end
 
 def summon_captain_planet(array)
   
-  array.
+  array.map do ||
   
 end
 
