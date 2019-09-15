@@ -25,6 +25,8 @@ end
 
 # TEST CODE
 
-dwarf_array = []
+dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
+
+
 
 
