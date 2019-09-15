@@ -33,6 +33,5 @@ end
 
 # TEST CODE
 
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-
-puts summon_captain_planet(planeteer_calls)
+short_words = ["puff", "go", "two"]
+long_planeteer_calls(short_words)
