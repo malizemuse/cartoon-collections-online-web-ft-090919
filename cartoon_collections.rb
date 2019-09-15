@@ -28,4 +28,4 @@ end
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
-
+puts summon_captain_planet(planeteer_calls)
