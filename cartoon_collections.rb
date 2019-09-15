@@ -21,3 +21,5 @@ end
 
 
 # TEST CODE
+
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
