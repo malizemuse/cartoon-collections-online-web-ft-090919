@@ -28,13 +28,12 @@ def find_the_cheese(array)
   
   array.find do |snack|
     
-    cheese_types.each do |cheese|
+    i = 0 
     
-      if snack == cheese
-        return cheese
-      end
+    while i < cheese_types.length 
       
-    end
+      
+    end 
     
   end 
   
