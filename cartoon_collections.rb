@@ -32,8 +32,6 @@ def find_the_cheese(array)
     
       if snack == cheese
         return cheese
-      else
-        
     
     end 
     
