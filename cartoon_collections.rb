@@ -43,11 +43,7 @@ end
 
 # TEST CODE
 
-short_words = ["puff", "go", "two"]
-puts long_planeteer_calls(short_words)
-
-assorted_words = ["two", "go", "industrious", "bop"]
-puts long_planeteer_calls(assorted_words)
-
+snacks = ["crackers", "gouda", "thyme"]
+find_the_cheese(snacks)
 
 
