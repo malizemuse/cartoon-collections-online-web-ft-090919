@@ -32,7 +32,7 @@ def find_the_cheese(array)
     
     while i < cheese_types.length 
       
-      
+      return snack if snack == cheese_types[i]
       
     end 
     
