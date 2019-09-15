@@ -27,6 +27,6 @@ end
 
 dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
-
+roll_call_dwarves(dwarf_array)
 
 
