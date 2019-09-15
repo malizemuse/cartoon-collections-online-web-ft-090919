@@ -28,7 +28,7 @@ def find_the_cheese(array)
   
   array.find do |snack|
     
-    
+    cheese_types.each ||
     
   end 
   
