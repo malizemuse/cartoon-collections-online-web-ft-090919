@@ -33,6 +33,7 @@ def find_the_cheese(array)
     while i < cheese_types.length 
       
       
+      
     end 
     
   end 
