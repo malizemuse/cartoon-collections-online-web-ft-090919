@@ -25,6 +25,6 @@ end
 
 # TEST CODE
 
-
+dwarf_array = []
 
 
